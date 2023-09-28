@@ -16,13 +16,13 @@
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label>Email or phone number</label>
+                <label>phone number only</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit">WELCOME TO NETFLIX</button>
+            <button type="submit">NAMASKAR TO NETFLIX</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
